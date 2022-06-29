@@ -1,4 +1,4 @@
-## WilliamHill DevOps Challenge
+## DevOps Challenge
 
 ## Option 3
 
@@ -41,7 +41,7 @@ The following Kubernetes versions are supported and work as we test against thes
 
 ## Install
 
-You need to have a slack webhook set up for a channel to which he messages should come to 
+You need to have a slack webhook set up for a channel to which the messages should come to 
 
 
 
