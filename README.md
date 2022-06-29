@@ -74,6 +74,6 @@ kubectl scale deployments example-app --replicas=1
 
 5. Delete a pod
 ```
-kubectl scale deployments example-app --replicas=1
+kubectl scale deployments example-app --replicas=0
 ```
 #you should get the expected message whihin a few minues
